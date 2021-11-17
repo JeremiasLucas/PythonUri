@@ -1,0 +1,3 @@
+numero_de_pessoas = (int(input()))
+qpcl = (numero_de_pessoas * 4)
+print(qpcl)
