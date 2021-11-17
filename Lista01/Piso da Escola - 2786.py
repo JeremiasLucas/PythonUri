@@ -1,0 +1,6 @@
+x = int(input())
+y = int (input())
+x1 = x * y + (x-1) * (y-1)
+x2 = 2 * (x-1) + 2* (y-1)
+print(x1)
+print(x2)

@@ -1,0 +1,6 @@
+h,p = input().split()
+h = int(h)
+p = int(p)
+nm = (h / p)
+nm_formatado = "{:.2f}".format(nm)
+print(nm_formatado)
